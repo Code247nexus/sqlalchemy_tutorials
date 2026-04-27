@@ -1,4 +1,4 @@
-QLAlchemy Learning Repository
+SQLAlchemy Learning Repository
 
 This repository contains my hands-on learning of SQLAlchemy, covering both Core and ORM approaches.
 
